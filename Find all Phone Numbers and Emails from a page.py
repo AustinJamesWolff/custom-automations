@@ -1,4 +1,7 @@
-# Write your code here :-)
+# When running, this will find and print all phone 
+# numbers and emails found from the clipboard. 
+# To use it, select all text on a given page 
+# and copy it. Then run this program.
 
 import pyperclip
 import re
